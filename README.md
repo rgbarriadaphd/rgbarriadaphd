@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋 My name is Rubén
+### Python Software Engineer | PhD candidate in Bioinformatics | AI Enthusiast
+
+I hold a degree in Computer Science from the Polytechnic University of Madrid (UPM) and an M.Sc. in Robotic Systems Engineering from the University of Southern Denmark (SDU), specializing in Artificial Intelligence and Computer Vision. With a strong focus on software development across the entire lifecycle, I am adept at solving complex problems efficiently and collaborating in team environments. Currently, I am completing my PhD in Bioinformatics, where my research applies deep learning algorithms to retinal imaging for the detection of cardiovascular diseases. Over the last five years, I have explored methods such as CNNs, Vision Transformers, and multi-task learning, utilizing frameworks like PyTorch and tools such as OpenCV, scikit-learn, and pandas. My experience in AI and machine learning spans both academic research and practical projects in medical imaging and data science.
+
+- 📫 How to reach me: ...
+  
+- [Orcid](https://orcid.org/0000-0003-0521-4895)
+- [Scholar](https://scholar.google.com/citations?user=https://scholar.google.es/citations?hl=es&user=eJpsRW8AAAAJ)
+- [LinkedIn](https://www.linkedin.com/in/ruben-gonzalez-barriada)
+
 
 <!--
 **rgbarriadaphd/rgbarriadaphd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
